@@ -1,0 +1,4 @@
+# ignore all environmental variables and python caches
+
+.env
+__pycache__

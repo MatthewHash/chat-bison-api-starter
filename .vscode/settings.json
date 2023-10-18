@@ -1,0 +1,4 @@
+{
+    "cloudcode.useGcloudAuthSkaffold": true,
+    "cloudcode.verboseLogging": true
+}
